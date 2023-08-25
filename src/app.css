@@ -1,0 +1,40 @@
+/* pre is used for code blocks. All styles should be essentially wiped, otherwise the code blocks will retain their HTML styles. */
+pre * {
+  font-size: 1em;
+}
+
+p {
+  margin: 0.333rem 4px;
+}
+
+body {
+  font-family: "basic-sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+}
+
+main {
+  padding: 0.5rem 1rem;
+}
+
+b {
+  font-weight: 700;
+}
+
+i {
+  font-style: italic;
+}
+
+small {
+  font-size: 0.75em;
+}
+
+a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+a:visted {
+  color: inherit;
+}
