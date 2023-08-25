@@ -38,6 +38,4 @@
   <li>Spread mayonnaise and ketchup on toasted buns and top with burgers.</li>
 </ol>
 
-<p>
-Here is a change
-  </p>
+<p>Here is a change</p>
