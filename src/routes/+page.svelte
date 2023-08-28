@@ -4,6 +4,7 @@
 <h2>🦅 American</h2>
 <ul>
   <li><a href="/american/burger">Greasy Hamburger</a></li>
+  <li><a href="/american/hotdog">Trational Ballpark Hotdog</a></li>
 </ul>
 
 <h2>🏯 Japanese</h2>
