@@ -11,4 +11,6 @@
 <i>Stay tuned for more recipes!</i>
 
 <h2>🤠 Mexican</h2>
-<i>Stay tuned for more recipes!</i>
+<ul>
+  <li><a href="/mexican/enchiladas">Cheecy Enchilada</a></li>
+</ul>
