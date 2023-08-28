@@ -52,6 +52,6 @@
   </li>
   <li>
     Slide each pizza onto the pizza stone in the preheated oven. Bake until cheese is bubbly and the
-    underside of the crust is golden brown, 5 to 7 minutes.
+    underside of the crust is golden brown, 5 to 7 minutes!!.
   </li>
 </ol>
