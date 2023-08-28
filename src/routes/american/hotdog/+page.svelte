@@ -36,5 +36,4 @@ essence of this beloved culinary experience. Get ready to relive the flavors of 
   <li>Place a hotdog sausage in each bun. Now comes the fun part—loading up your hotdog with the classic toppings.</li>
   <li>If you're a fan of cheesy hotdogs, sprinkle some grated cheddar cheese over the toppings.</li>
   <li>Your traditional ballpark hotdogs are ready to be savored! Serve them up with some crispy potato chips or even nachos for the full stadium experience.</li>
-  <li>Spread mayonnaise and ketchup on toasted buns and top with burgers.</li>
 </ol>
