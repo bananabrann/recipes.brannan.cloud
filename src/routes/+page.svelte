@@ -5,6 +5,7 @@
 <ul>
   <li><a href="/american/burger">Greasy Hamburger</a></li>
   <li><a href="/american/hotdog">Trational Ballpark Hotdog</a></li>
+  <li><a href="/american/pizza">Fly Pizza</a></li>
 </ul>
 
 <h2>🏯 Japanese</h2>
