@@ -1,16 +1,16 @@
 <h1>Traditional Ballpark Hotdog</h1>
 
 <img
-src= "https://files.brannan.cloud/recipes/hotdog.png"
-alt="Hotdog description"
+  src= "https://files.brannan.cloud/recipes/hotdog.png"
+  alt="Hotdog description"
 />
 
 <p>
-Indulge in the timeless delight of a classic American favorite with our traditional ballpark 
-hotdog recipe. Step into the nostalgia of sunny afternoons at the ballgame as we guide you 
-through crafting the perfect hotdog, complete with all the iconic toppings that capture the 
-essence of this beloved culinary experience. Get ready to relive the flavors of summer and 
-essence of this beloved culinary experience. Get ready to relive the flavors of summer and 
+  Indulge in the timeless delight of a classic American favorite with our traditional ballpark 
+  hotdog recipe. Step into the nostalgia of sunny afternoons at the ballgame as we guide you 
+  through crafting the perfect hotdog, complete with all the iconic toppings that capture the 
+  essence of this beloved culinary experience. Get ready to relive the flavors of summer and 
+  essence of this beloved culinary experience. Get ready to relive the flavors of summer and 
 </p>
 
 <h2>Ingredients</h2>
