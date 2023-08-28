@@ -1,4 +1,4 @@
-## Installation
+## 🔧 Installation
 
 ### Requirements
 
@@ -38,3 +38,13 @@ Run your code and make file changes:
 ```bash
 npm run format
 ```
+
+## 💡 Git Tips
+
+Remember what we learned, and don't be afraid to reference [the git cheat sheet](https://files.brannan.cloud/docs/github-git-cheat-sheet.pdf) (https://files.brannan.cloud/docs/github-git-cheat-sheet.pdf).
+
+> Always double check your branch (`git status` or `git branch`) prior to committing! Also, getting in the habit of pulling changes (`git pull origin branch-name`) might save you a lot of headache in the future.
+
+## 📢 Asking for help
+
+You can obviously DM me on Teams. However, I might not see it if it's during off-hours. You can also [open an issue on this repo](https://github.com/bananabrann/recipes.brannan.cloud/issues) or **comment on your draft PR** with your question.
