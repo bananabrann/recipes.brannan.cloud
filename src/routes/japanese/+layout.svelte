@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Japanese Recipes</title>
+  <title>Sushi Zen</title>
 </svelte:head>
 
 <slot />
