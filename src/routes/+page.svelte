@@ -8,7 +8,9 @@
 </ul>
 
 <h2>🏯 Japanese</h2>
-<li><a href="/japanese/ramen">Ramen</a></li>
+<ul>
+  <li><a href="/japanese/ramen">Ramen</a></li>
+</ul>
 
 <h2>🤠 Mexican</h2>
 <i>Stay tuned for more recipes!</i>
