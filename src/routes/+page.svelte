@@ -8,7 +8,7 @@
 </ul>
 
 <h2>🏯 Japanese</h2>
-<i>Stay tuned for more recipes!</i>
+<li><a href="/japanese/ramen">Ramen</a></li>
 
 <h2>🤠 Mexican</h2>
 <i>Stay tuned for more recipes!</i>
