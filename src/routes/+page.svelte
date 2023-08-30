@@ -8,7 +8,9 @@
 </ul>
 
 <h2>🏯 Japanese</h2>
-<i>Stay tuned for more recipes!</i>
+<ul>
+  <li><a href="/japanese/sushi">Sushi-Zen</a></li>
+</ul>
 
 <h2>🤠 Mexican</h2>
 <ul>
