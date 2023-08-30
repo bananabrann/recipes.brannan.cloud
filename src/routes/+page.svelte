@@ -12,5 +12,6 @@
 
 <h2>🤠 Mexican</h2>
 <ul>
+  <li><a href="/mexican/tacos">Terrific Tacos</a></li>
   <li><a href="/mexican/enchiladas">Cheecy Enchilada</a></li>
 </ul>
