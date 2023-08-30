@@ -4,7 +4,7 @@
 <h2>🦅 American</h2>
 <ul>
   <li><a href="/american/burger">Greasy Hamburger</a></li>
-  <li><a href="/american/hotdog">Trational Ballpark Hotdog</a></li>
+  <li><a href="/american/pizza">Fly Pizza</a></li>
 </ul>
 
 <h2>🏯 Japanese</h2>
@@ -13,4 +13,5 @@
 <h2>🤠 Mexican</h2>
 <ul>
   <li><a href="/mexican/tacos">Terrific Tacos</a></li>
+  <li><a href="/mexican/enchiladas">Cheecy Enchilada</a></li>
 </ul>
