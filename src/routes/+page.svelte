@@ -9,6 +9,7 @@
 
 <h2>🏯 Japanese</h2>
 <ul>
+  <li><a href="/japanese/ramen">Ramen</a></li>
   <li><a href="/japanese/sushi">Sushi-Zen</a></li>
 </ul>
 
