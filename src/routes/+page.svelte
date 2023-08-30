@@ -10,7 +10,11 @@
 <h2>🏯 Japanese</h2>
 <ul>
   <li><a href="/japanese/ramen">Ramen</a></li>
+  <li><a href="/japanese/sushi">Sushi-Zen</a></li>
 </ul>
 
 <h2>🤠 Mexican</h2>
-<i>Stay tuned for more recipes!</i>
+<ul>
+  <li><a href="/mexican/tacos">Terrific Tacos</a></li>
+  <li><a href="/mexican/enchiladas">Cheecy Enchilada</a></li>
+</ul>
