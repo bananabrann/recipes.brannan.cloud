@@ -9,7 +9,7 @@
 
 <h2>🏯 Japanese</h2>
 <ul>
-<li><a href="/japanese/sushi">Sushi-Zen</a></li>
+  <li><a href="/japanese/sushi">Sushi-Zen</a></li>
 </ul>
 
 <h2>🤠 Mexican</h2>
