@@ -2,7 +2,7 @@
 
 <img src="https://files.brannan.cloud/recipes/sushi.png" alt="Sushi" />
 
-<p>This Sushi Recipe will show you how to make sushi like a pro!!!!</p>
+<p>This Sushi Recipe will show you how to make sushi like a pro!</p>
 
 <h2>Ingredients</h2>
 <ul>
