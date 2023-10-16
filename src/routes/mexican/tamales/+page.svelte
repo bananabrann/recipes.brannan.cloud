@@ -15,7 +15,7 @@ alt="Yummy Tamales."
   <li>1 cup of chicken broth (may need more to get to the right consistency).</li>
   <li>1 tsp baking powder.</li>
   <li>1/2 cup of lard or shortening.</li>
-  <li>Salt to taste.>/li>
+  <li>Salt to taste.</li>
 <h3>For the Filling:</h3>
   <li>2 cups of shredded cooked chicken.</li>
   <li>1 cup of salsa verde (green salsa) or a red chili sauce.</li>
@@ -40,7 +40,8 @@ alt="Yummy Tamales."
   <li>Cover and steam over medium heat for about 60 minutes or until the masa separates easily from the husks.</li>
 <h3>Serve:</h3>  
   <li>
-    Let the tamales cool for a bit before serving. Unwrap them from the corn husks and serve with additional salsa, cheese, and other desired toppings.</li>
+    Let the tamales cool for a bit before serving. Unwrap them from the corn husks and serve with additional salsa, cheese, and other desired toppings.
+</li>
 
-<p>Enjoy your homemade tamales! This is a basic recipe, but tamales are versatile, and you can experiment with different fillings and sauces according to your preference./p>
+<p>Enjoy your homemade tamales! This is a basic recipe, but tamales are versatile, and you can experiment with different fillings and sauces according to your preference.</p>
 
