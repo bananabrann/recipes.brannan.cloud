@@ -18,4 +18,5 @@
 <ul>
   <li><a href="/mexican/tacos">Terrific Tacos</a></li>
   <li><a href="/mexican/enchiladas">Cheesy Enchilada</a></li>
+  <li><a href="/mexican/tamales">Yummy Tamales</a></li>
 </ul>
