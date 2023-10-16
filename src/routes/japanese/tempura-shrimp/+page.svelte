@@ -5,10 +5,11 @@
     alt="Crunch and savory tempura shrimp."
   />
   <p>
-    Shrimp Tempura is a delicious and easy-to-make dish that can satisfy your hunger and cravings. Shrimp Tempura is fried and typically a crispy and savory appetizer
-    to start your dining experience. Your guests will love this dish!
+    Shrimp Tempura is a delicious and easy-to-make dish that can satisfy your hunger and cravings.
+    Shrimp Tempura is fried and typically a crispy and savory appetizer to start your dining
+    experience. Your guests will love this dish!
   </p>
-  <h2>Ingredients:</h2>
+  <h2>Ingredients</h2>
   <ul>
     <li>Shrimp: 12 large, peeled, deveined, and with tails on.</li>
     <li>Tempura Batter:</li>
@@ -28,36 +29,33 @@
     <li>Grated daikon radish and ginger (for garnish)</li>
   </ul>
   <h2>Instructions</h2>
+  <h3>Prepare the shrimp:</h3>
   <ol>
     <li>
-      Prepare the shrimp:
-      Start by straightening the shrimp. Make a few shallow cuts on the underside of the shrimp and gently press it flat on a cutting board.
-      Pat the shrimp dry using paper towels.
-      Prepare the Tempura Batter:
+      Start by straightening the shrimp. Make a few shallow cuts on the underside of the shrimp and
+      gently press it flat on a cutting board. Pat the shrimp dry using paper towels. Prepare the
+      Tempura Batter:
     </li>
     <li>
-      In a mixing bowl, lightly beat the egg.
-      Add the cold water and ice cubes to the egg mixture.
-      Sift in the all-purpose flour (and baking powder if using). Gently mix the ingredients together. Remember, it's okay if there are a few lumps left; overmixing can make the batter heavy.
-      If using cornstarch, sift and mix it in as well.
-      Frying the Shrimp:
+      In a mixing bowl, lightly beat the egg. Add the cold water and ice cubes to the egg mixture.
+      Sift in the all-purpose flour (and baking powder if using). Gently mix the ingredients
+      together. Remember, it's okay if there are a few lumps left; overmixing can make the batter
+      heavy. If using cornstarch, sift and mix it in as well. Frying the Shrimp:
     </li>
     <li>
-      Heat the oil in a deep frying pan or pot to about 350°F (175°C).
-      Holding the shrimp by the tail, dip them into the batter, making sure they are well-coated.
-      Carefully place the battered shrimp into the hot oil. Fry them in batches to avoid overcrowding.
-      Fry until the shrimp turn a light golden color, typically about 2-3 minutes.
-      Remove the shrimp using a slotted spoon and drain them on paper towels.
-      Prepare the Dipping Sauce (if using):
+      Heat the oil in a deep frying pan or pot to about 350°F (175°C). Holding the shrimp by the
+      tail, dip them into the batter, making sure they are well-coated. Carefully place the battered
+      shrimp into the hot oil. Fry them in batches to avoid overcrowding. Fry until the shrimp turn
+      a light golden color, typically about 2-3 minutes. Remove the shrimp using a slotted spoon and
+      drain them on paper towels. Prepare the Dipping Sauce (if using):
     </li>
     <li>
-      Mix the soy sauce, mirin, and dashi stock or water in a bowl.
-      Serve in individual small bowls, garnished with grated daikon radish and ginger.
-      Serve:
+      Mix the soy sauce, mirin, and dashi stock or water in a bowl. Serve in individual small bowls,
+      garnished with grated daikon radish and ginger. Serve:
     </li>
     <li>
-      Serve the shrimp tempura hot with the dipping sauce on the side. Sprinkle a bit of salt to taste if desired.
-      Enjoy your homemade shrimp tempura!
+      Serve the shrimp tempura hot with the dipping sauce on the side. Sprinkle a bit of salt to
+      taste if desired. Enjoy your homemade shrimp tempura!
     </li>
   </ol>
 </div>
