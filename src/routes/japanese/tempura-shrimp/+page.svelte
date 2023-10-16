@@ -5,11 +5,8 @@
     alt="Crunch and savory tempura shrimp."
   />
   <p>
-    Ramen is a delicious and easy-to-make dish that can satisfy your hunger and cravings. Ramen is a
-    type of Japanese noodle soup that consists of wheat noodles, broth, and various toppings such as
-    meat, eggs, vegetables, and seaweed. Ramen is popular all over the world because of its
-    versatility, affordability, and flavor. You can make ramen at home with simple ingredients and
-    customize it to your liking.
+    Shrimp Tempura is a delicious and easy-to-make dish that can satisfy your hunger and cravings. Shrimp Tempura is fried and typically a crispy and savory appetizer
+    to start your dining experience. Your guests will love this dish!
   </p>
   <h2>Ingredients:</h2>
   <ul>
@@ -30,7 +27,7 @@
     <li>Dashi stock or water: 2 tbsp</li>
     <li>Grated daikon radish and ginger (for garnish)</li>
   </ul>
-  <h2>Instructions:</h2>
+  <h2>Instructions</h2>
   <ol>
     <li>
       Prepare the shrimp:
