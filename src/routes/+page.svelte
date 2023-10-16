@@ -4,7 +4,6 @@
 <h2>🦅 American</h2>
 <ul>
   <li><a href="/american/burger">Greasy Hamburger</a></li>
-  <li><a href="/american/pizza">Fly Pizza</a></li>
   <li><a href="/american/hotdog">Traditional Ballpark Hotdog</a></li>
 </ul>
 
