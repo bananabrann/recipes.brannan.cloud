@@ -10,21 +10,21 @@
 </p>
 
 <h2>Ingredients</h2>
-<h3>For the Dough:</h3>
+<h3>For the Dough</h3>
 <ul>
   <li>2 cups of masa harina (a type of corn flour specifically for tamales and tortillas).</li>
   <li>1 cup of chicken broth (may need more to get to the right consistency).</li>
   <li>1 tsp baking powder.</li>
   <li>1/2 cup of lard or shortening.</li>
-  <li>Salt to taste.</li>
+  <li>1 table spoon of sea salt to taste.</li>
 </ul>
-<h3>For the Filling:</h3>
+<h3>For the Filling</h3>
 <ul> 
   <li>2 cups of shredded cooked chicken.</li>
   <li>1 cup of salsa verde (green salsa) or a red chili sauce.</li>
   <li>1/2 cup of crumbled queso fresco or another cheese of your choice.</li>
 </ul>
-<h3>Other:</h3>
+<h3>Other</h3>
 <ul>
   <li>Corn husks (around 20, soaked in warm water for 30 minutes to an hour to soften).</li>
 </ul>
