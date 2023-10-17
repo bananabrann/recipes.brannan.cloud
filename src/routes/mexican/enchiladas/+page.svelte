@@ -1,5 +1,5 @@
 <div>
-  <h1>Cheese Enchiladas</h1>
+  <h1>cheesy Enchiladas</h1>
   <img
     src="https://files.brannan.cloud/recipes/enchiladas.png"
     alt="A yummy, but definitely cheesey enchilada."
