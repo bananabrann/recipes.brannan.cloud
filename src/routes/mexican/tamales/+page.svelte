@@ -19,7 +19,7 @@
   <li>Salt to taste.</li>
 </ul>
 <h3>For the Filling</h3>
-<ul> 
+<ul>
   <li>2 cups of shredded cooked chicken.</li>
   <li>1 cup of salsa verde (green salsa) or a red chili sauce.</li>
   <li>1/2 cup of crumbled queso fresco or another cheese of your choice.</li>
