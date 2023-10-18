@@ -17,6 +17,8 @@
   <li>1 tsp baking powder.</li>
   <li>1/2 cup of lard or shortening.</li>
   <li>Salt to taste.</li>
+=======
+  <li>1 teaspoon salt.</li>
 </ul>
 <h3>For the Filling</h3>
 <ul>
