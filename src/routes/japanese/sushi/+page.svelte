@@ -1,6 +1,6 @@
 <h1>Sushi-Zen</h1>
 
-<img src="https://files.brannan.cloud/recipes/sushi.png" alt="Sushi" />
+<img src="https://files.brannan.cloud/recipes/sushi2.png" alt="Sushi" />
 
 <p>This Sushi Recipe will show you how to make sushi like a pro!!!!</p>
 
@@ -13,7 +13,7 @@
   <li>1 1/2 teaspoons salt</li>
   <li>4 sheets of nori</li>
   <li>8 pre-cooked tempura shrimp</li>
-  <li>8 strips of cucumber/li></li>
+  <li>8 strips of cucumber</li>
   <li>8 slices of avocado</li>
   <li>3 tablespoons black and/or white sesame seeds</li>
 </ul>
