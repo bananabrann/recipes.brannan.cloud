@@ -11,6 +11,7 @@
 <ul>
   <li><a href="/japanese/ramen">Ramen</a></li>
   <li><a href="/japanese/sushi">Sushi-Zen</a></li>
+  <li><a href="/japanese/tempura-shrimp">Tempura Shrimp</a></li>
 </ul>
 
 <h2>🤠 Mexican</h2>
