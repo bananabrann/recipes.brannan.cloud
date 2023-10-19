@@ -1,6 +1,7 @@
 <nav>
   <ul>
     <li><a href="/">Home</a></li>
+    <li><a href="/license/page">License</a></li>
   </ul>
 </nav>
 
